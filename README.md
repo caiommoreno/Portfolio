@@ -15,4 +15,4 @@ I trust that the entirety of sentient life on this planet used only one tool to 
 
 # Public projects
 
-- **Analysing violence on Rio de Janeiro after the first Coronavirus case**: https://bit.ly/violencia_rio_pos_corona
+- **Analysing violence on Rio de Janeiro after the first Coronavirus case (PT-BR)**: https://bit.ly/violencia_rio_pos_corona
