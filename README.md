@@ -1,2 +1,18 @@
-# Portfolio
-My personal portfolio, with my personal achievements as Data Scients and projects.
+# Data Scientist specialized on marketing
+
+Formed in Electrical Engineer, I found myself on data analysis and artificial intelligence world.
+
+Passionate in solving problems, always trying to improve myself in new challenges. Working as a freelancer giving orientation for small and medium business, helping them to have a data-driven methodology.
+
+I trust that the entirety of sentient life on this planet used only one tool to evolve: the mistake — and recognizing my weakness, mistakes and limitations I am always trying to improve myself as a professional, finding new obstacles, learning all the time.
+
+
+**Experienced in**: Python, Machine Learning and Deep Learning.
+
+
+- [Instagram](https://www.instagram.com/caiommoreno)
+- [Linkedin](https://www.linkedin.com/in/caio-m-moreno-293364156/)
+
+#Public projects
+
+- Analysing violence on Rio de Janeiro after the first Coronavirus case: bit.ly/violencia_rio_pos_corona
