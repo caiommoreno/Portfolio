@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header-github.jpg" width=140% >
+</p>
+
 # Data Scientist specialized on marketing
 
 Formed in Electrical Engineer, I found myself on data analysis and artificial intelligence world.
