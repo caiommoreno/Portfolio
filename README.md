@@ -25,4 +25,4 @@ I trust that the entirety of sentient life on this planet used only one tool to 
 
 # Linkedin Articles
 
-- **Data analysis about crime rate in Rio de Janeiro — Before and after Coronavírus** 
+- **Coronavirus Data Analysis — Brazil and World (PT-BR)**: http://bit.ly/corona_analysis 
