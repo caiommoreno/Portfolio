@@ -18,7 +18,7 @@ I trust that the entirety of sentient life on this planet used only one tool to 
 - [Linkedin](https://www.linkedin.com/in/caio-m-moreno-293364156/)
 
 
-# Public projects
+# Public analysis
 
 - **Analysing violence on Rio de Janeiro after the first Coronavirus case (PT-BR)**: https://bit.ly/violencia_rio_pos_corona
 
