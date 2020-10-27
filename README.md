@@ -26,3 +26,8 @@ I trust that the entirety of sentient life on this planet used only one tool to 
 # Linkedin Articles
 
 - **Coronavirus Data Analysis — Brazil and World (PT-BR)**: http://bit.ly/corona_analysis 
+
+
+# Customers public projects
+
+- **Customers control on automobilie market (PT-BR)**: http://bit.ly/volanteiros
