@@ -22,7 +22,7 @@ I trust that the entirety of sentient life on this planet used only one tool to 
 
 - **Analysing violence on Rio de Janeiro after the first Coronavirus case (PT-BR)**: https://bit.ly/violencia_rio_pos_corona
 - **Athens rental Airbnb analysis (EN-US)**: http://bit.ly/airbnb-athens-analysis
-- **Credit Card Fraud Detection — Machine Learning Model**: http://bit.ly/ml_fraud_detection
+- **Credit Card Fraud Detection — Machine Learning Model (EN-US)**: http://bit.ly/ml_fraud_detection
 
 # Linkedin Articles
 
